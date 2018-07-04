@@ -1,0 +1,1082 @@
+fileFormatVersion: 2
+guid: b1a2f73e3927bea45864052c0c3c0097
+timeCreated: 1495298876
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wolf_Sprite_0
+    21300002: Wolf_Sprite_1
+    21300004: Wolf_Sprite_2
+    21300006: Wolf_Sprite_3
+    21300008: Wolf_Sprite_4
+    21300010: Wolf_Sprite_5
+    21300012: Wolf_Sprite_6
+    21300014: Wolf_Sprite_7
+    21300016: Wolf_Sprite_8
+    21300018: Wolf_Sprite_9
+    21300020: Wolf_Sprite_10
+    21300022: Wolf_Sprite_11
+    21300024: Wolf_Sprite_12
+    21300026: Wolf_Sprite_13
+    21300028: Wolf_Sprite_14
+    21300030: Wolf_Sprite_15
+    21300032: Wolf_Sprite_16
+    21300034: Wolf_Sprite_17
+    21300036: Wolf_Sprite_18
+    21300038: Wolf_Sprite_19
+    21300040: Wolf_Sprite_20
+    21300042: Wolf_Sprite_21
+    21300044: Wolf_Sprite_22
+    21300046: Wolf_Sprite_23
+    21300048: Wolf_Sprite_24
+    21300050: Wolf_Sprite_25
+    21300052: Wolf_Sprite_26
+    21300054: Wolf_Sprite_27
+    21300056: Wolf_Sprite_28
+    21300058: Wolf_Sprite_29
+    21300060: Wolf_Sprite_30
+    21300062: Wolf_Sprite_31
+    21300064: Wolf_Sprite_32
+    21300066: Wolf_Sprite_33
+    21300068: Wolf_Sprite_34
+    21300070: Wolf_Sprite_35
+    21300072: Wolf_Sprite_36
+    21300074: Wolf_Sprite_37
+    21300076: Wolf_Sprite_38
+    21300078: Wolf_Sprite_39
+    21300080: Wolf_Sprite_40
+    21300082: Wolf_Sprite_41
+    21300084: Wolf_Sprite_42
+    21300086: Wolf_Sprite_43
+    21300088: Wolf_Sprite_44
+    21300090: Wolf_Sprite_45
+    21300092: Wolf_Sprite_46
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wolf_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 204
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 205
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 206
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 202
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 208
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 205
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 155
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 156
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 156
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 163
+        width: 71
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 158
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 158
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 158
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 106
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 106
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 104
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 112
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 108
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 108
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 109
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 55
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 56
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 53
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 61
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 51
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 55
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 59
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 28
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 23
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 33
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 15
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 17
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 16
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 10
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 21
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 21
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wolf_Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 16, y: -89}
+      - {x: -5, y: -73}
+      - {x: -15, y: -73}
+      - {x: -24, y: -92}
+      - {x: -24, y: -116}
+      - {x: -13, y: -123}
+      - {x: 7, y: -123}
+      - {x: 9, y: -121}
+      - {x: 8, y: -117}
+      - {x: 18, y: -109}
+      - {x: 18, y: -97}
+    - - {x: 36, y: -73}
+      - {x: 26, y: -93}
+      - {x: 26, y: -114}
+      - {x: 39, y: -123}
+      - {x: 63, y: -123}
+      - {x: 68, y: -114}
+      - {x: 68, y: -93}
+      - {x: 45, y: -73}
+    - - {x: 89, y: -123}
+      - {x: 110, y: -123}
+      - {x: 115, y: -118}
+      - {x: 115, y: -37}
+      - {x: 112, y: -23}
+      - {x: 79, y: -23}
+      - {x: 79, y: -115}
+    - - {x: -68, y: -104}
+      - {x: -50, y: -122}
+      - {x: -42, y: -122}
+      - {x: -38, y: -118}
+      - {x: -38, y: -98}
+      - {x: -46, y: -76}
+      - {x: -49, y: -75}
+      - {x: -66, y: -75}
+      - {x: -68, y: -80}
+    - - {x: 145, y: -87}
+      - {x: 129, y: -95}
+      - {x: 129, y: -106}
+      - {x: 130, y: -109}
+      - {x: 138, y: -110}
+      - {x: 164, y: -110}
+      - {x: 165, y: -107}
+      - {x: 165, y: -95}
+      - {x: 160, y: -87}
+    - - {x: 183, y: -93}
+      - {x: 180, y: -96}
+      - {x: 180, y: -100}
+      - {x: 184, y: -104}
+      - {x: 211, y: -104}
+      - {x: 214, y: -99}
+      - {x: 214, y: -94}
+      - {x: 212, y: -93}
+    - - {x: -1, y: -26}
+      - {x: -13, y: -26}
+      - {x: -21, y: -28}
+      - {x: -21, y: -72}
+      - {x: 12, y: -72}
+      - {x: 15, y: -71}
+      - {x: 15, y: -51}
+      - {x: 6, y: -45}
+      - {x: 1, y: -27}
+    - - {x: -185, y: -53}
+      - {x: -187, y: -53}
+      - {x: -192, y: -35}
+      - {x: -200, y: -28}
+      - {x: -213, y: -28}
+      - {x: -222, y: -33}
+      - {x: -222, y: -56}
+      - {x: -212, y: -70}
+      - {x: -200, y: -70}
+      - {x: -189, y: -69}
+      - {x: -183, y: -60}
+      - {x: -183, y: -55}
+    - - {x: -162, y: -27}
+      - {x: -169, y: -35}
+      - {x: -169, y: -70}
+      - {x: -147, y: -70}
+      - {x: -137, y: -67}
+      - {x: -137, y: -27}
+    - - {x: -84, y: -49}
+      - {x: -82, y: -46}
+      - {x: -82, y: -36}
+      - {x: -90, y: -28}
+      - {x: -110, y: -28}
+      - {x: -123, y: -44}
+      - {x: -123, y: -58}
+      - {x: -121, y: -63}
+      - {x: -112, y: -70}
+      - {x: -97, y: -70}
+      - {x: -93, y: -69}
+      - {x: -93, y: -61}
+      - {x: -98, y: -56}
+      - {x: -89, y: -52}
+    - - {x: 129, y: -68}
+      - {x: 131, y: -70}
+      - {x: 158, y: -70}
+      - {x: 164, y: -68}
+      - {x: 164, y: -27}
+      - {x: 138, y: -27}
+      - {x: 129, y: -29}
+    - - {x: -68, y: -56}
+      - {x: -63, y: -69}
+      - {x: -48, y: -69}
+      - {x: -39, y: -67}
+      - {x: -39, y: -28}
+      - {x: -65, y: -28}
+      - {x: -68, y: -36}
+    - - {x: 177, y: -31}
+      - {x: 177, y: -66}
+      - {x: 214, y: -66}
+      - {x: 216, y: -60}
+      - {x: 216, y: -35}
+      - {x: 208, y: -31}
+    - - {x: 22, y: -33}
+      - {x: 21, y: -36}
+      - {x: 21, y: -64}
+      - {x: 68, y: -64}
+      - {x: 72, y: -60}
+      - {x: 72, y: -33}
+    - - {x: -168, y: 23}
+      - {x: -168, y: -12}
+      - {x: -163, y: -21}
+      - {x: -141, y: -21}
+      - {x: -138, y: -10}
+      - {x: -138, y: 17}
+      - {x: -143, y: 23}
+    - - {x: -21, y: -21}
+      - {x: -1, y: -21}
+      - {x: 18, y: 4}
+      - {x: 18, y: 24}
+      - {x: -12, y: 24}
+      - {x: -31, y: 12}
+      - {x: -31, y: -14}
+    - - {x: -214, y: 21}
+      - {x: -222, y: 18}
+      - {x: -222, y: -19}
+      - {x: -187, y: -19}
+      - {x: -184, y: -14}
+      - {x: -184, y: 2}
+      - {x: -194, y: 21}
+    - - {x: -110, y: 21}
+      - {x: -118, y: 17}
+      - {x: -122, y: 1}
+      - {x: -122, y: -11}
+      - {x: -118, y: -19}
+      - {x: -85, y: -19}
+      - {x: -83, y: -14}
+      - {x: -83, y: 16}
+      - {x: -90, y: 21}
+    - - {x: -69, y: 22}
+      - {x: -69, y: -16}
+      - {x: -67, y: -18}
+      - {x: -60, y: -19}
+      - {x: -43, y: -19}
+      - {x: -38, y: -6}
+      - {x: -38, y: 12}
+      - {x: -41, y: 22}
+    - - {x: 108, y: 19}
+      - {x: 92, y: 19}
+      - {x: 70, y: 0}
+      - {x: 70, y: -8}
+      - {x: 72, y: -17}
+      - {x: 93, y: -17}
+      - {x: 123, y: -15}
+      - {x: 129, y: -7}
+      - {x: 129, y: 4}
+      - {x: 119, y: 16}
+    - - {x: 137, y: 19}
+      - {x: 128, y: 6}
+      - {x: 128, y: -16}
+      - {x: 129, y: -17}
+      - {x: 172, y: -17}
+      - {x: 176, y: -7}
+      - {x: 176, y: 14}
+      - {x: 162, y: 19}
+    - - {x: 189, y: 19}
+      - {x: 174, y: -2}
+      - {x: 174, y: -14}
+      - {x: 178, y: -16}
+      - {x: 222, y: -16}
+      - {x: 222, y: 15}
+      - {x: 212, y: 19}
+    - - {x: 57, y: 16}
+      - {x: 36, y: 16}
+      - {x: 19, y: 10}
+      - {x: 18, y: 7}
+      - {x: 18, y: -13}
+      - {x: 67, y: -13}
+      - {x: 68, y: -12}
+      - {x: 70, y: -7}
+      - {x: 70, y: 1}
+    - - {x: -145, y: 73}
+      - {x: -162, y: 73}
+      - {x: -169, y: 70}
+      - {x: -169, y: 32}
+      - {x: -157, y: 30}
+      - {x: -137, y: 30}
+      - {x: -137, y: 64}
+      - {x: -142, y: 70}
+    - - {x: -200, y: 72}
+      - {x: -211, y: 72}
+      - {x: -222, y: 65}
+      - {x: -222, y: 52}
+      - {x: -221, y: 49}
+      - {x: -212, y: 46}
+      - {x: -210, y: 46}
+      - {x: -213, y: 37}
+      - {x: -207, y: 33}
+      - {x: -199, y: 31}
+      - {x: -186, y: 31}
+      - {x: -182, y: 40}
+      - {x: -182, y: 52}
+      - {x: -197, y: 69}
+    - - {x: -115, y: 72}
+      - {x: -124, y: 59}
+      - {x: -124, y: 32}
+      - {x: -121, y: 31}
+      - {x: -86, y: 31}
+      - {x: -82, y: 39}
+      - {x: -82, y: 65}
+      - {x: -96, y: 72}
+    - - {x: -65, y: 72}
+      - {x: -69, y: 59}
+      - {x: -69, y: 45}
+      - {x: -65, y: 33}
+      - {x: -60, y: 31}
+      - {x: -48, y: 31}
+      - {x: -42, y: 34}
+      - {x: -38, y: 37}
+      - {x: -38, y: 72}
+    - - {x: 131, y: 33}
+      - {x: 155, y: 33}
+      - {x: 172, y: 39}
+      - {x: 165, y: 45}
+      - {x: 158, y: 50}
+      - {x: 157, y: 50}
+      - {x: 159, y: 50}
+      - {x: 164, y: 49}
+      - {x: 166, y: 49}
+      - {x: 173, y: 54}
+      - {x: 173, y: 60}
+      - {x: 171, y: 65}
+      - {x: 167, y: 69}
+      - {x: 76, y: 69}
+      - {x: 71, y: 56}
+      - {x: 71, y: 33}
+      - {x: 107, y: 33}
+      - {x: 118, y: 34}
+      - {x: 126, y: 43}
+      - {x: 126, y: 46}
+      - {x: 124, y: 35}
+    - - {x: 185, y: 70}
+      - {x: 172, y: 45}
+      - {x: 172, y: 38}
+      - {x: 176, y: 34}
+      - {x: 188, y: 33}
+      - {x: 216, y: 33}
+      - {x: 222, y: 43}
+      - {x: 222, y: 63}
+      - {x: 215, y: 70}
+    - - {x: -8, y: 65}
+      - {x: -16, y: 60}
+      - {x: -16, y: 38}
+      - {x: 59, y: 38}
+      - {x: 59, y: 53}
+      - {x: 43, y: 65}
+    - - {x: -4, y: 123}
+      - {x: -4, y: 111}
+      - {x: -3, y: 108}
+      - {x: 3, y: 104}
+      - {x: 36, y: 77}
+      - {x: 47, y: 77}
+      - {x: 47, y: 99}
+      - {x: 25, y: 123}
+    - - {x: -166, y: 123}
+      - {x: -168, y: 115}
+      - {x: -168, y: 91}
+      - {x: -161, y: 79}
+      - {x: -143, y: 79}
+      - {x: -138, y: 89}
+      - {x: -138, y: 121}
+      - {x: -139, y: 123}
+    - - {x: -197, y: 122}
+      - {x: -215, y: 122}
+      - {x: -222, y: 115}
+      - {x: -222, y: 90}
+      - {x: -211, y: 80}
+      - {x: -189, y: 80}
+      - {x: -182, y: 85}
+      - {x: -182, y: 98}
+      - {x: -190, y: 120}
+    - - {x: -110, y: 122}
+      - {x: -124, y: 94}
+      - {x: -124, y: 83}
+      - {x: -116, y: 80}
+      - {x: -99, y: 80}
+      - {x: -82, y: 95}
+      - {x: -82, y: 120}
+      - {x: -97, y: 122}
+    - - {x: 182, y: 122}
+      - {x: 157, y: 122}
+      - {x: 138, y: 115}
+      - {x: 138, y: 82}
+      - {x: 139, y: 80}
+      - {x: 206, y: 80}
+      - {x: 206, y: 101}
+      - {x: 204, y: 110}
+    - - {x: -44, y: 122}
+      - {x: -65, y: 122}
+      - {x: -68, y: 115}
+      - {x: -68, y: 84}
+      - {x: -58, y: 81}
+      - {x: -43, y: 81}
+      - {x: -40, y: 85}
+      - {x: -39, y: 93}
+      - {x: -39, y: 114}
+    - - {x: 108, y: 119}
+      - {x: 85, y: 119}
+      - {x: 73, y: 100}
+      - {x: 73, y: 84}
+      - {x: 74, y: 83}
+      - {x: 119, y: 83}
+      - {x: 121, y: 89}
+      - {x: 121, y: 115}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
